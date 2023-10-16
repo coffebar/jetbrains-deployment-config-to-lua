@@ -1,4 +1,4 @@
-# JetBrains deployment config to lua
+# Convert JetBrains deployment config to lua
 
 ## Usage
 
