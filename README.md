@@ -28,6 +28,8 @@ return {
 }
 ```
 
+Example [how this config can be used](https://github.com/coffebar/dotfiles/blob/b336aa5b985763237de6fbf9498cf147bbe6f162/.config/nvim/lua/coffebar/deployment.lua#L23C1-L67C4).
+
 ## DISCLAIMER
 
 There are no guarantees that it will work for you.
